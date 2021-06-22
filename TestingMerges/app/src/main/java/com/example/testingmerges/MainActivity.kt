@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         val testing3 = "c"
         val testing4 = "d"
         val testing5 = "e"
+        val testing6 = "f"
 
     }
 }
